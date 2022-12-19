@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.portfolio.hamikhosravi.com/Portfolio.html](http://www.portfolio.hamikhosravi.com/Portfolio.html)
 
-- 📝 I've written these NPM packages [mask/separator](https://www.npmjs.com/package/v-digits-separator) and [vue-breadcrumb-dynamic](https://www.npmjs.com/package/vue-breadcrumb-dynamic)
+- 📝 I've written the [mask/separator](https://www.npmjs.com/package/v-digits-separator) and [vue-breadcrumb-dynamic](https://www.npmjs.com/package/vue-breadcrumb-dynamic) NPM packages
 
 - 💬 Ask me about **JavaScript, React, Vue, and Nuxt.**
 
